@@ -1,7 +1,6 @@
 #Task1
 import copy
 import  openpyxl as op
-#from openpyxl import load_workbook
 
 def generatePreferences(valuationSheet) -> dict:
 
