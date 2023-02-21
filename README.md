@@ -1,9 +1,9 @@
 # Assignment3 - Voting
 A part of coursework for 'Programming Fundamentals':
 
-*'voting.py' is the main file with all the functions corresponding to different voting rules
-*'run_voting.py' shall be used to run 'voting.py', the file loads an excel file and shall be used to call functions corresponding to the voting rule required by the user.
-*'votingTest.xlsx' contains numerical data which corresponds to the evaluation assigned to various alternatives by different agents
+* 'voting.py' is the main file with all the functions corresponding to different voting rules
+* 'run_voting.py' shall be used to run 'voting.py', the file loads an excel file and shall be used to call functions corresponding to the voting rule required by the user.
+* 'votingTest.xlsx' contains numerical data which corresponds to the evaluation assigned to various alternatives by different agents
 
 The purpose of the program is to choose a winner among multiple alternatives, each voted by several agents.
 The user may use any of the available voting method to choose the winner
