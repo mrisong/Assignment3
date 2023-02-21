@@ -1,5 +1,5 @@
 # Assignment3 - Voting
-A part of coursework of 'Programming Fundamentals':
+A part of coursework for 'Programming Fundamentals':
 The purpose of the program is to choose a winner among multiple alternatives, each voted by several agents.
 The user may use any of the available voting method to choose the winner
 The voting methods are implemented as functions in this program
